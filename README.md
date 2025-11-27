@@ -4,10 +4,10 @@
 #### 💻 Data Science Enthusiast | Deep Learning Practitioner  | Turning data insights into practical solutions
 <br/>
 ### 🧠 Areas of Interest
-#### 💡 Data Science & Analytics 
-#### 🤖 AI/ML & Deep Learning Architectures 
-#### ☁️ Cloud Computing & Azure Deployment 
-#### 💻 Full Stack Developer
+💡 Data Science & Analytics <br/> 
+🤖 AI/ML & Deep Learning Architectures <br/>
+☁️ Cloud Computing & Azure Deployment <br/>
+💻 Full Stack Developer <br/>
 <br/>
 ### ⚙️ Tech Stack Snapshot
 ### 🤖 Data Science & AI
