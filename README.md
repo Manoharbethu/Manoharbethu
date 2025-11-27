@@ -18,3 +18,8 @@
 **GitHub** $\cdot$ **Power BI** $\cdot$ **Tableau** $\cdot$ **Azure Cloud**
 ### 🌐 Web Technologies
 **HTML** $\cdot$ **CSS** $\cdot$ **JavaScript**
+---
+## 🔗 Connect With Me
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/manubethu/)
+* [cite_start]🌐 **Manoharbethu** (GitHub Username) [cite: 87]
+⭐ **"Turning data insights into practical solutions."**
