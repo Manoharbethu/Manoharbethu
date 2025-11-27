@@ -9,7 +9,7 @@
 ☁️ Cloud Computing & Azure Deployment <br/>
 💻 Full Stack Developer <br/>
 <br/>
-## ⚙️ Tech Stack Snapshot
+## ⚙️ Tech Stack Snapshot <br/>
 ### 🤖 Data Science & AI
 TensorFlow, $ NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn <br/>
 ### 💻 Programming & Database
