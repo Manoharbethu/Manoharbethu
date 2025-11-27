@@ -3,11 +3,8 @@
 ### 🎓 Bachelor of Technology – Computer Science (Data Science, ML & AI)
 ### 🏫 Lovely Professional University, Punjab, India
 ### 💻 Data Science Enthusiast | Deep Learning Practitioner | Turning data insights into practical solutions
-
 ---
-
 ## 🧠 Areas of Interest
-
 * 💡 Data Science & Analytics
 * 🤖 AI/ML & Deep Learning Architectures
 * ☁️ Cloud Computing & Azure Deployment
