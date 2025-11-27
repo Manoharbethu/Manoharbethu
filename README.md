@@ -6,7 +6,7 @@
 ## 🧠 Areas of Interest
 * 💡 Data Science & Analytics
 * 🤖 AI/ML & Deep Learning Architectures
-* ☁️ Cloud Computing & Azure Deployment
+* ☁️ Cloud Computing
 * 💻 Full Stack Development
 ---
 ## ⚙️ Tech Stack Snapshot
