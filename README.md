@@ -20,9 +20,6 @@
 **HTML** $\cdot$ **CSS** $\cdot$ **JavaScript**
 ---
 ## 🔗 Connect With Me
-* [cite_start]📧 **bethumanohar@gmail.com** [cite: 3]
-* [cite_start]📞 **+91-7222823999** [cite: 3]
 * 💼 [**LinkedIn**](https://www.linkedin.com/in/manubethu/)
-* [cite_start]🌐 **Manoharbethu** (GitHub Username) [cite: 3]
 ---
 ⭐ **"Turning data insights into practical solutions."**
